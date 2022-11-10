@@ -1,1 +1,0 @@
-This is a web development portfolio in the making. 
